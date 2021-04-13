@@ -1,4 +1,4 @@
-Hi I'm Huashen87, a junior software engineer.
+Hi I'm Huashen87, a software engineer.
 
 I'm interesting in Web development and Game development.
 
